@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi 👋, I'm Muhammad Qaisar
 
-<!--
-**qaisarcode/qaisarcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Flutter Developer | Mobile App Developer | UI/UX Enthusiast
 
-Here are some ideas to get you started:
+I'm a passionate Flutter developer who loves building modern, responsive, and user-friendly mobile applications. Currently focusing on Flutter, Firebase, and modern app development technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🌱 Currently learning advanced Flutter development
+* 💻 Building mobile applications with Flutter
+* 🔥 Interested in Firebase and Backend Integration
+* 📫 Reach me at: [your-email@example.com](mailto:your-email@example.com)
+* 🌍 Location: Pakistan
+
+## 🛠️ Tech Stack
+
+### Languages
+
+* Dart
+* C++
+* java
+  
+
+### Frameworks & Tools
+
+* Flutter
+* Firebase
+* Git & GitHub
+* VS Code
+* Android Studio
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+
+## 🌐 Connect With Me
+
+* GitHub: https://github.com/qaisarcode
+* LinkedIn: https://www.linkedin.com/in/muhammad-qaisar-ali
+
+---
+
+⭐ Thanks for visiting my profile!
