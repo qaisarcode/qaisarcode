@@ -31,7 +31,7 @@ I'm a passionate Flutter developer who loves building modern, responsive, and us
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qaisarcode\&show_icons=true)
 
 ## 🔥 Streak Stats
 
