@@ -1,6 +1,8 @@
-Hi 👋, I'm Muhammad Qaisar
+# Hi 👋, I'm Muhammad Qaisar 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&width=500&lines=Flutter+Developer;Mobile+App+Developer;Cross+Platform+Developer;UI%2FUX+Enthusiast" />
 
-### 🚀 Flutter Developer | Cross-Platform Mobile App Developer | UI/UX Enthusiast
+
+🚀 Flutter Developer | 📱 Mobile App Developer | 🎨 UI/UX Enthusiast
 
 I'm a passionate Flutter developer focused on building modern, scalable, and high-performance mobile applications.  
 I specialize in cross-platform development, clean UI design, Firebase integration, REST APIs, and backend-connected applications.
