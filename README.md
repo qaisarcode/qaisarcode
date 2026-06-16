@@ -1,51 +1,74 @@
 # Hi 👋, I'm Muhammad Qaisar
 
-### 🚀 Flutter Developer | Mobile App Developer | UI/UX Enthusiast
+### 🚀 Flutter Developer | Cross-Platform Mobile App Developer | UI/UX Enthusiast
 
-I'm a passionate Flutter developer who loves building modern, responsive, and user-friendly mobile applications.  
-I focus on creating clean UI, scalable apps, Firebase integration, and backend-connected mobile solutions.
+I'm a passionate Flutter developer focused on building modern, scalable, and high-performance mobile applications.  
+I specialize in cross-platform development, clean UI design, Firebase integration, REST APIs, and backend-connected applications.
 
 ---
 
 ## 🚀 About Me
 
 - 🌱 Currently learning advanced Flutter development
-- 📱 Building cross-platform mobile applications with Flutter
-- 🔥 Working with Firebase & Backend Integration
-- 🎨 Interested in UI/UX design and smooth user experiences
-- ⚡ Exploring APIs and real-world app development
+- 📱 Building Android & iOS cross-platform applications
+- 🔥 Experienced with Firebase & Backend Integration
+- 🎨 Creating modern UI/UX experiences
+- ⚡ Working with APIs and real-world mobile solutions
+- 🏗️ Interested in clean architecture and scalable apps
 - 📫 Email: qaisarmuhammad908283@gmail.com
 - 🌍 Location: Pakistan
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+## 👨‍💻 Programming Languages
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### 📱 Frameworks & Mobile
+---
+
+## 📱 Cross Platform Development
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![IOS](https://img.shields.io/badge/IOS-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
+---
 
-### 🔥 Backend & Database
+## 🎨 UI/UX & Design
+
+![Material Design](https://img.shields.io/badge/Material_UI-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
+![Responsive UI](https://img.shields.io/badge/Responsive_UI-FF6F00?style=for-the-badge)
+
+---
+
+## 🔥 Backend & Database
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Cloud Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=api&logoColor=white)
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🛠️ Tools
+---
+
+## ⚡ Flutter Skills
+
+![Provider](https://img.shields.io/badge/Provider-02569B?style=for-the-badge)
+![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge)
+![Riverpod](https://img.shields.io/badge/Riverpod-0175C2?style=for-the-badge)
+
+---
+
+## 🛠️ Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+---
 
 ## 📊 GitHub Stats
 
