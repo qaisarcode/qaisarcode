@@ -31,6 +31,8 @@ I focus on creating clean UI, scalable apps, Firebase integration, and backend-c
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![IOS](https://img.shields.io/badge/IOS-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
 
 ### 🔥 Backend & Database
 
