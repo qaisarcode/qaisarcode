@@ -95,4 +95,3 @@ I specialize in cross-platform development, clean UI design, Firebase integratio
 ---
 
 ⭐ Thanks for visiting my profile!
-](https://www.linkedin.com/in/muhammad-qaisar-ali/)
