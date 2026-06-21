@@ -15,7 +15,7 @@ I specialize in cross-platform development, clean UI design, Firebase integratio
 - 📱 Building Android & iOS cross-platform applications
 - 🔥 Experienced with Firebase & Backend Integration
 - 🎨 Creating modern UI/UX experiences
-- ⚡ Working with APIs and real-world mobile solutions
+- ⚡ Working with APIs Integrations and real-world mobile solutions
 - 🏗️ Interested in clean architecture and scalable apps
 - 📫 Email: qaisarmuhammad908283@gmail.com
 - 🌍 Location: Pakistan
