@@ -22,7 +22,7 @@ I specialize in cross-platform development, clean UI design, Firebase integratio
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Tech Stacks
 
 ## 👨‍💻 Programming Languages
 
